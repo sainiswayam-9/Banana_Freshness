@@ -101,6 +101,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 📬 Contact
 
-For questions or suggestions, please reach out to ratnesh.kr.jais@gmail.com.
+For questions or suggestions, please reach out to swayamsaini9@gmail.com.
 
 Enjoy using the Banana Freshness Checker! 🍌
