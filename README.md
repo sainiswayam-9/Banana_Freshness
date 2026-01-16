@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
 - Clone the repository:
 
-  - git clone https://github.com/RatneshKJaiswal/Banana_Index
+  - git clone [https://github.com/sainiswayam-9/Banana_Freshness]
   - cd Banana_Index
 
 - Install dependencies:
